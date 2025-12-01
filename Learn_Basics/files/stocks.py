@@ -1,5 +1,5 @@
 import csv
-with open("stocks.csv" ,"r") as f, open("D:\\AI\\Python\\Learn_Basics\\files\\output.csv","w") as w:
+with open("D:\\AI\\Python\\Learn_Basics\\files\\stocks.csv" ,"r") as f, open("D:\\AI\\Python\\Learn_Basics\\files\\output.csv","w") as w:
     w.write("Company Name,PE Ratio, PB Ratio\n")
     reader = csv.reader(f)
     next(reader)     
