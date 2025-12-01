@@ -1,7 +1,7 @@
 ## Exercise: Python Read Write File
 1. [poem.txt](https://github.com/katikareddylava/Python/blob/master/Learn_Basics/files/poem.txt) contains famous poem "Road not taken" by poet Robert Frost. You have to read this file in your python program and find out words with maximum occurance.
 
-2. [stocks.csv](https://github.com/codebasics/py/blob/master/Basics/Exercise/13_read_write_files/stocks.csv) contains stock price, earnings per share and book value. You are writing a stock market application that will process this file and create a new file
+2. [stocks.csv](https://github.com/katikareddylava/Python/blob/master/Learn_Basics/files/stocks.csv) contains stock price, earnings per share and book value. You are writing a stock market application that will process this file and create a new file
 with financial metrics such as pe ratio and price to book ratio. These are calculated as,
 ```
 pe ratio = price / earnings per share
