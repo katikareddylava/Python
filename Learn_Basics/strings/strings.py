@@ -8,7 +8,7 @@ print("Address using f-string:",address+"\n")
 
 statement = "Earth revolves around the sun"
 print(statement[6:14])
-print(statement[-3]+"\n")
+print(statement[-4]+"\n")
 
 fruits =3
 veg = 6
